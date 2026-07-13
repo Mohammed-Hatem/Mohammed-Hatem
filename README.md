@@ -93,9 +93,13 @@
 <div align="center">
   <h2>📈 GitHub Stats</h2>
   <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohammed-Hatem&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=36BCF7&icon_color=00ADD8&text_color=c9d1d9&border_color=30363d&hide_border=false&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats" height="180" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-Hatem&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=36BCF7&text_color=c9d1d9&border_color=30363d&hide_border=false&langs_count=8" alt="Top Languages" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mohammed-Hatem&theme=tokyonight" alt="Profile Summary" width="95%" />
+  <br /><br />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mohammed-Hatem&theme=tokyonight" alt="Repos Per Language" height="170" />
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mohammed-Hatem&theme=tokyonight" alt="Most Commit Language" height="170" />
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mohammed-Hatem&theme=tokyonight" alt="Stats" height="170" />
 </div>
 
 <br />
