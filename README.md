@@ -2,17 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0D1117,50:0A3D62,100:00ADD8&height=280&section=header&text=Mohammed%20Hatem&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20%7C%20System%20Architect&descAlignY=58&descAlign=50&descSize=20" alt="Header Banner" width="100%" />
 </div>
 
-<div align="center">
-  <a href="https://github.com/Mohammed-Hatem">
-    <img src="https://komarev.com/ghpvc/?username=Mohammed-Hatem&color=00ADD8&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/Mohammed-Hatem?tab=followers">
-    <img src="https://img.shields.io/github/followers/Mohammed-Hatem?color=00ADD8&style=for-the-badge&logo=github&label=FOLLOWERS" alt="Followers" />
-  </a>
-</div>
 
-<br />
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=700&lines=Backend+Engineer+%F0%9F%9A%80;System+Architect+%F0%9F%8F%97%EF%B8%8F;Java+%7C+Go+%7C+Python+Developer;Kafka+%7C+Kubernetes+%7C+Spring+Boot;Building+What+Scales+%E2%9C%A8" alt="Typing SVG" />
@@ -111,23 +101,6 @@
 ---
 
 <div align="center">
-  <h2>⚡ GitHub Activity & Stats</h2>
-  <br />
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=Mohammed-Hatem&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true" alt="Mohammed's GitHub Stats" />
-    &nbsp;
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-Hatem&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" alt="Top Langs" />
-  </p>
-  <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammed-Hatem&theme=tokyonight&hide_border=true&background=0D1117&stroke=00ADD8&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7" alt="GitHub Streak" />
-  </p>
-</div>
-
-<br />
-
----
-
-<div align="center">
   <h2>📊 Contribution Activity</h2>
   <br />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohammed-Hatem&theme=tokyo-night&bg_color=0D1117&color=36BCF7&line=00ADD8&point=ffffff&hide_border=true&area=true&area_color=00ADD8" alt="Contribution Graph" width="95%" />
@@ -145,16 +118,6 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mohammed-Hatem/Mohammed-Hatem/output/github-contribution-grid-snake.svg" />
     <img alt="Snake animation" src="https://raw.githubusercontent.com/Mohammed-Hatem/Mohammed-Hatem/output/github-contribution-grid-snake.svg" />
   </picture>
-</div>
-
-<br />
-
----
-
-<div align="center">
-  <h2>💡 Dev Quote of the Day</h2>
-  <br />
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
 </div>
 
 <br />
