@@ -86,17 +86,6 @@
   </tr>
 </table>
 
-<br />
-
----
-
-<div align="center">
-  <h2>🏆 GitHub Trophies</h2>
-  <br />
-  <img src="https://github-profile-trophy.vercel.app/?username=Mohammed-Hatem&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4" alt="GitHub Trophies" />
-</div>
-
-<br />
 
 ---
 
